@@ -1,3 +1,4 @@
+console.log('File JS collegato correttamente')
 // Esercizi aggiuntivi (facoltativi) per D4
 
 /* EXTRA 1
